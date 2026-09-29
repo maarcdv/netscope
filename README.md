@@ -6,9 +6,8 @@ NetScope analiza tu red local, muestra los dispositivos conectados (IP, MAC, fab
 
 > Proyecto en desarrollo · Proyecto Intermodular SMX
 
-![Captura de NetScope](docs/img/screenshot.png)
+![Captura de NetScope](docs/img/banner.jpeg)
 
-*(Captura pendiente)*
 
 ## Características
 
